@@ -1,0 +1,3 @@
+void main(){
+    list<map<string,dynamic>> friendList = [{"Name" : ""}]
+}
