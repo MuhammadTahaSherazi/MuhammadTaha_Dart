@@ -13,7 +13,7 @@ void main() {
         }
         else
         {
-          print(lc_student[lc_cnt]);
+          print(lc_student[lc_cnt]["name"]);
         }
         lc_cnt++;
     }
